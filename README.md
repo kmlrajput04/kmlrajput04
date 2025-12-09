@@ -1,5 +1,3 @@
-
-You said:
 <!-- Modern Hero Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A00FF,100:00E5FF&text=Kamal%20Rajput&fontColor=FFFFFF&fontSize=52&fontAlign=50&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MBA%20Graduate&descAlign=50&descAlignY=55" />
