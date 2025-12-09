@@ -60,32 +60,6 @@ I'm <b>Kamal Rajput</b> — a Full Stack Developer & MBA Professional who builds
 
 </div>
 
----
-
-# 🌐 **My Developer Identity**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&pause=1000&color=9F63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MBA+Graduate+%7C+Business+Strategist;Next.js+%7C+Node.js+%7C+FastAPI+Expert;I+Build+Scalable+Digital+Experiences;Turning+Ideas+Into+Real+Products" />
-</div>
-
----
-
-# 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kmlrajput04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kmlrajput04&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-# 📈 **Activity Graph**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmlrajput04&theme=react-dark&hide_border=true&area=true" />
-</div>
-
----
-
 # 🚀 Featured Projects
    ### 🔹 **Noor-e-Punjab Organic** 
 - Clean UI design  
