@@ -1,128 +1,139 @@
-<!-- Modern Hero Banner -->
+<!-- HERO BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A00FF,100:00E5FF&text=Kamal%20Rajput&fontColor=FFFFFF&fontSize=52&fontAlign=50&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MBA%20Graduate&descAlign=50&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Kamal%20Rajput&fontAlign=50&fontSize=50&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20MBA%20Graduate&descAlignY=65" />
+</div>
+
+<br/>
+
+<!-- TITLE -->
+<h2 align="center">✨ Building Modern Web Experiences with Strategy, Design & Engineering ✨</h2>
+
+<p align="center">
+I'm <b>Kamal Rajput</b> — a Full Stack Developer & MBA graduate who merges <b>technology + business strategy</b> to build scalable, intelligent, and user-focused digital products.
+</p>
+
+---
+
+# 🚀 **Tech Universe I Work In**
+## 🎨 **Frontend Engineering**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,angular,js,ts,tailwind,bootstrap,html,css" />
 </div>
 
 ---
 
-## <div align="center">✨ Transforming Ideas into Scalable Digital Experiences ✨</div>
-
-<p align="center">
-I'm <b>Kamal Rajput</b> — a Full Stack Developer & MBA Professional who builds  
-<strong>high-performance web apps, rich UI systems, backend architectures, and business-driven digital solutions.</strong>
-</p>
+## ⚙️ **Backend & API Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,python,mongodb,mysql" />
+</div>
 
 ---
 
-# 🚀 **Tech Stack & Expertise**
-### <span style="color:#8A2BE2; font-size:22px">🖥️ Frontend Development</span>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,angular,js,ts,html,css,tailwind,bootstrap,sass" />
-</p>
-
----
-
-### <span style="color:#8A2BE2; font-size:22px">⚙️ Backend + API Development</span>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,python,mongodb,mysql,sqlite" />
-</p>
-
----
-
-### <span style="color:#8A2BE2; font-size:22px">📊 Business & MBA Skillset</span>
-<p align="center">
-  ✔ Project Management  
-  ✔ Business Analysis  
-  ✔ Market Research  
-  ✔ Strategic Planning  
-  ✔ Data Interpretation  
-  ✔ Operations Management  
-  ✔ Leadership & Team Coordination  
-</p>
-
----
-
-### <span style="color:#8A2BE2; font-size:22px">🛠 Developer Tools & Platforms</span>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel,netlify,docker,redis,linux" />
-</p>
-
----
-
-# 🎯 **Services I Provide**
+## 📊 **Business + MBA Expertise**
 <div align="center">
 
-| 💻 Full Stack Development | ⚙ Backend Architecture | 🎨 Frontend Engineering | 🚀 Deployment |
-|--------------------------|------------------------|-------------------------|---------------|
-| Complete MERN / Next.js apps | REST APIs • Auth • DB Models | Pixel-perfect UI • Responsive Design | Vercel • Render • Docker |
-| Scalable Systems | Real-time apps (WebSockets) | Tailwind • Modern UI | CI/CD Setup |
-| Clean Architecture | API Optimization | Component-driven design | Production Pipeline |
+🟣 Business Analysis • 🟣 Project Management • 🟣 Market Strategy  
+🟣 Operations Planning • 🟣 Data Insights • 🟣 Process Optimization  
+🟣 Team Leadership • 🟣 Requirement Engineering  
 
 </div>
 
 ---
 
-# 🌐 **My Developer Identity**
-
+## 🛠 **Tools, Platforms & Workflow**
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&pause=1000&color=9F63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MBA+Graduate+%7C+Business+Strategist;Next.js+%7C+Node.js+%7C+FastAPI+Expert;I+Build+Scalable+Digital+Experiences;Turning+Ideas+Into+Real+Products" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,linux,docker,vercel" />
 </div>
 
 ---
 
-# 📊 **GitHub Analytics**
-
+# 🧩 **Services I Provide**
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kmlrajput04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kmlrajput04&theme=tokyonight&hide_border=true" />
+
+### 🌐 **Full Stack Application Development**
+Building complete end-to-end applications using  
+**React, Next.js, Angular, Node.js, FastAPI, MongoDB, SQL**
+
+### ⚙️ **Backend Systems & API Architecture**
+- REST APIs  
+- Authentication (JWT, OAuth)  
+- Real-time communication (WebSockets)  
+- Database schema design  
+
+### 🎨 **Frontend UI/UX Creation**
+- Component-based architecture  
+- Clean & modern designs  
+- Tailwind + custom UI systems  
+
+### 🚀 **Deployment & Cloud Setup**
+- Vercel • Render • Docker • Netlify  
+- CI/CD pipelines  
+- Production-grade optimization  
+
 </div>
 
 ---
 
-# 📈 **Activity Graph**
+# 🌟 **Signature Projects**
+### 🟣 **1. Personal Portfolio**  
+**Tech:** React, Express, Node.js, MongoDB  
+**Description:**  
+A modern, highly optimized personal portfolio featuring:  
+- Dynamic content rendering  
+- Custom UI components  
+- Backend-powered contact system  
+- SEO-optimized pages  
+- Full MERN stack architecture  
+
+---
+
+### 🟣 **2. Noor-E-Punjab (Full-Stack Restaurant Management System)**  
+**Tech:** FastAPI, Angular, SQL  
+**Description:**  
+A full-scale restaurant management & operations platform featuring:  
+- Staff & order management  
+- Billing & product catalog  
+- FastAPI backend with modular architecture  
+- Angular frontend with reusable state-driven components  
+- SQL relational data structure  
+
+---
+
+# 📊 **My Developer Insight**
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmlrajput04&theme=react-dark&hide_border=true&area=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kmlrajput04&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=kmlrajput04&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-# 🚀 Featured Projects
-
-### 🔹 **Fliez – File & Folder Management System**
-- React + Node.js + MongoDB  
-- Role-based access, folder architecture, trash restore  
-- Modern UI, backend optimizations  
-
-### 🔹 **GK Illuminated Insights (HR Consultancy Website)**
-- Clean UI design  
-- Mobile-responsive layout  
-
-### 🔹 **Next.js Personal Portfolio**
-- API powered  
-- Smooth animations  
-- SEO optimized  
+# 🔥 **Activity Heatmap**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmlrajput04&theme=github-dark&hide_border=true&area=true" />
+</div>
 
 ---
 
-# 📬 Connect With Me
+# 📫 **Find Me Online**
 <div align="center">
   <a href="mailto:kmlrajput.coder.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kamalrajput04-webdev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/rajput.kml.04">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
----
+<br/>
 
 <div align="center">
   
-### ⭐ *If you like my work, consider giving my repositories a star!*  
-### ✨ *Let's build something amazing together.*
+### ⭐ *If you appreciate my work, consider giving my repositories a star!*
+
+### ✨ *Let's build something impactful together.*
 
 </div>
 
