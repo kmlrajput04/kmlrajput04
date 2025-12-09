@@ -1,122 +1,88 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Kamal+Rajput+%7C+Full+Stack+Developer" alt="Banner" />
-</p>
+<!-- Modern Hero Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A00FF,100:00E5FF&text=Kamal%20Rajput&fontColor=FFFFFF&fontSize=52&fontAlign=50&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MBA%20Graduate&descAlign=50&descAlignY=55" />
+</div>
 
-<h1 align="center">Hi there, I'm <span style="color:#6C63FF">Kamal Rajput</span> 👋</h1>
+---
 
-<p align="center">
-  🚀 Full Stack Web Developer | MERN | Next.js | FastAPI | Python  
-</p>
+## <div align="center">✨ Transforming Ideas into Scalable Digital Experiences ✨</div>
 
 <p align="center">
-  <a href="mailto:kmlrajput.coder.tech@gmail.com">📧 Email</a> •
-  <a href="www.linkedin.com/in/kamalrajput04-webdev">💼 LinkedIn</a> •
-  <a href="http://instagram.com/rajput.kml.04/">📸 Instagram</a>
+I'm <b>Kamal Rajput</b> — a Full Stack Developer & MBA Professional who builds  
+<strong>high-performance web apps, rich UI systems, backend architectures, and business-driven digital solutions.</strong>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-Hello! I'm **Kamal Rajput**, a passionate **Full-Stack Developer** with expertise in building scalable, interactive, and high-performance digital applications.
-
-I create meaningful web solutions using modern technologies like **React**, **Node.js**, **Next.js**, **Angular**, **FastAPI**, and **MongoDB**.  
-
-I love clean UI/UX, optimized backend systems, and solving real-world problems through code.
-
-📍 **India**  
-📞 **98720-90704**  
-📧 **kmlrajput.coder.tech@gmail.com**
-
----
-
-# 🛠️ Tech Stack & Skills
-
-### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
-</p>
-
-### **Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?logo=socket.io&logoColor=fff" />
-</p>
-
-### **Databases**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=fff" />
-</p>
-
-### **Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=fff"/>
-</p>
-
----
-
-# 🚀 Services I Offer
-
-I help businesses, startups, and individuals by delivering production-ready, scalable, and modern web solutions.
-
-### **🔹 Full Stack Web Development**
-- Build complete applications (frontend + backend + database)
-- Building with MERN, Next.js, FastAPI, SQL, MongoDB
-
-### **🔹 Backend Architecture & API Development**
-- REST APIs, Authentication (JWT/Session)
-- Admin dashboards & secure backend systems  
-- Database design & optimization  
-- Real-time apps with WebSockets  
-
-### **🔹 Frontend Development**
-- Pixel-perfect UI  
-- Responsive & mobile-friendly  
-- Dynamic pages with React / Next.js / Angular  
-- Tailwind, Bootstrap, custom UI systems  
-
-### **🔹 Deployment & DevOps**
-- Deploy apps on Vercel, Render, Netlify  
-- CI/CD setup  
-- Git branching workflows  
-
-### **🔹 Performance & Optimization**
-- API optimization  
-- Database indexing  
-- Lighthouse score improvements  
-
----
-
-# 📊 GitHub Stats
-
+# 🚀 **Tech Stack & Expertise**
+### <span style="color:#8A2BE2; font-size:22px">🖥️ Frontend Development</span>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kmlrajput04&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=kmlrajput04&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=react,next,angular,js,ts,html,css,tailwind,bootstrap,sass" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
+### <span style="color:#8A2BE2; font-size:22px">⚙️ Backend + API Development</span>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmlrajput04&theme=react-dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,python,mongodb,mysql,sqlite" />
 </p>
+
+---
+
+### <span style="color:#8A2BE2; font-size:22px">📊 Business & MBA Skillset</span>
+<p align="center">
+  ✔ Project Management  
+  ✔ Business Analysis  
+  ✔ Market Research  
+  ✔ Strategic Planning  
+  ✔ Data Interpretation  
+  ✔ Operations Management  
+  ✔ Leadership & Team Coordination  
+</p>
+
+---
+
+### <span style="color:#8A2BE2; font-size:22px">🛠 Developer Tools & Platforms</span>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel,netlify,docker,redis,linux" />
+</p>
+
+---
+
+# 🎯 **Services I Provide**
+<div align="center">
+
+| 💻 Full Stack Development | ⚙ Backend Architecture | 🎨 Frontend Engineering | 🚀 Deployment |
+|--------------------------|------------------------|-------------------------|---------------|
+| Complete MERN / Next.js apps | REST APIs • Auth • DB Models | Pixel-perfect UI • Responsive Design | Vercel • Render • Docker |
+| Scalable Systems | Real-time apps (WebSockets) | Tailwind • Modern UI | CI/CD Setup |
+| Clean Architecture | API Optimization | Component-driven design | Production Pipeline |
+
+</div>
+
+---
+
+# 🌐 **My Developer Identity**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&pause=1000&color=9F63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MBA+Graduate+%7C+Business+Strategist;Next.js+%7C+Node.js+%7C+FastAPI+Expert;I+Build+Scalable+Digital+Experiences;Turning+Ideas+Into+Real+Products" />
+</div>
+
+---
+
+# 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kmlrajput04&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kmlrajput04&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+# 📈 **Activity Graph**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmlrajput04&theme=react-dark&hide_border=true&area=true" />
+</div>
 
 ---
 
@@ -124,41 +90,39 @@ I help businesses, startups, and individuals by delivering production-ready, sca
 
 ### 🔹 **Fliez – File & Folder Management System**
 - React + Node.js + MongoDB  
-- Folder structure, trash restore, image upload  
-- Authentication + admin controls  
+- Role-based access, folder architecture, trash restore  
+- Modern UI, backend optimizations  
 
 ### 🔹 **GK Illuminated Insights (HR Consultancy Website)**
-- HTML, CSS, JavaScript  
-- Clean UI + responsive pages  
+- Clean UI design  
+- Mobile-responsive layout  
 
-### 🔹 **Next.js Portfolio**
-- API-powered  
-- Smooth animations + Tailwind  
-- SEO friendly  
-
----
-
-# 📚 Currently Learning
-- Advanced Next.js  
-- System Design for Backend  
-- TypeScript Mastery  
+### 🔹 **Next.js Personal Portfolio**
+- API powered  
+- Smooth animations  
+- SEO optimized  
 
 ---
 
-# 📫 Connect With Me
-
-<p>
-  <a href="www.linkedin.com/in/kamalrajput04-webdev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" />
-  </a>
-  <a href="http://instagram.com/rajput.kml.04/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff" />
-  </a>
+# 📬 Connect With Me
+<div align="center">
   <a href="mailto:kmlrajput.coder.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/kamalrajput04-webdev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/rajput.kml.04">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### ⭐ If you like my work, feel free to star the repositories!
+<div align="center">
+  
+### ⭐ *If you like my work, consider giving my repositories a star!*  
+### ✨ *Let's build something amazing together.*
+
+</div>
+
